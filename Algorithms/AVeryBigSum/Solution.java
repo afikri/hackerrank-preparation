@@ -1,12 +1,13 @@
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class Solution {
     public static void main(String[] args) {
 
         // int n = 5;
-        // long ar[] = { 1000000001, 1000000002, 1000000003, 1000000004, 1000000005 };
-        List<Long> = 
-        Solution.aVeryBigSum(ar);
+        List<Long> arr =  new ArrayList<Long>(Arrays.asList( 1000000001, 1000000002, 1000000003, 1000000004, 1000000005);
+        Solution.aVeryBigSum(arr);
 
     }
 
